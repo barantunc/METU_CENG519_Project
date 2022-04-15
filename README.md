@@ -1,1 +1,1 @@
-# METU_CENG519_Project
+# METU Class: CENG_519 Project Repo
