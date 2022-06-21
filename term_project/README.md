@@ -305,8 +305,7 @@ def generateGraph(n):
     return ws
 ```
 
-![Network type used for the project
-(n=9)](graph_1655749433_477875){#fig:project_network width="12cm"}
+![graph_1655749433_477875](https://user-images.githubusercontent.com/35777786/174701743-01054e2d-f5ea-4c6e-8a48-3c8c9d643b3b.png)
 
 \
 Then this graph is converted to a python dictionary with the key format
