@@ -306,7 +306,7 @@ def generateGraph(n):
 ```
 
 ![Network type used for the project
-(n=9)](graph_1655749433.477875){#fig:project_network width="12cm"}
+(n=9)](graph_1655749433_477875){#fig:project_network width="12cm"}
 
 \
 Then this graph is converted to a python dictionary with the key format
