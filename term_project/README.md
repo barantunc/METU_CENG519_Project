@@ -1,5 +1,7 @@
-# Presentation Video Link: 
+# Presentation Video Link
 https://youtu.be/z2oZsGcWIl8
+
+#Summary
 
 Fully Homomorphic Encryption (FHE) scheme is a method where calculations
 are done on the encrypted data without needing to decrypt. Calculated
